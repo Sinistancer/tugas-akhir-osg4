@@ -17,5 +17,5 @@ samples, guidance on mobile development, and a full API reference.
 
 ## Example Layouting
 
-![Alt text](blob/master/images/screen.jpg?raw=true "Title")
+![Alt text](/images/screen.jpg "Title")
 # tugas-akhir-osg4
